@@ -1,0 +1,16 @@
+<<ch06.md>>=
+<<Chapter 6>>
+@
+
+This is a test document to see how I would construct a book project with noweb.
+
+The point is that I want to outline and plan my book and then write it in the form of code.
+
+<<Chapter 6>>=
+
+## Chapter 6
+
+It's hard to think in big structures. It's much easier to think in small chunks and then put them together. That makes it easier to write the words you need.
+
+
+

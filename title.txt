@@ -1,0 +1,6 @@
+---
+title: Template Book
+author: Karthik Suresh
+rights:  Copyright. All Rights Reserved.
+language: en-US
+...

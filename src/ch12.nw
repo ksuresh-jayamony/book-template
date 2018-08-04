@@ -1,14 +1,14 @@
-<<ch1.md>>=
-<<Think and then write>>
+<<ch12.md>>=
+<<Chapter 12>>
 @
 
 This is a test document to see how I would construct a book project with noweb.
 
 The point is that I want to outline and plan my book and then write it in the form of code.
 
-<<Think and then write>>=
+<<Chapter 12>>=
 
-## Think and then write
+## Chapter 12
 
 It's hard to think in big structures. It's much easier to think in small chunks and then put them together. That makes it easier to write the words you need.
 
